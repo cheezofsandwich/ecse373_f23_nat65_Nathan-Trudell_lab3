@@ -36,6 +36,8 @@ Roslaunch params:
   
 
 Purpose of Launch File: Launches the program with prior configuration from lab 2 but enables it to be used in simulations use .bag files and on a map for motion.
+
+.bag Files used for the production of this project are from private repo, but others may be used. Contact Dr. Greg Lee for more information.
  
 
 #### Authors
